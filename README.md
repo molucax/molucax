@@ -6,10 +6,10 @@ const Lucas = {
       BackEnd: ['Javascript', 'Typescript', 'NodeJs', 'Express', 'Mongoose', 'Sequelize', 'MongoDB', 'SQL'],
       FrontEnd: ['Javascript', 'Typescript', 'React', 'React-Native', 'Redux', 'HTML', 'CSS']
     },
-  Proyects: [
-      { DogsApp: ['React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL'] },
-      { QuizApp: ['Typescript', 'React'] },
-    ],
+  Proyects: {
+      DogsApp: ['React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL'],
+      QuizApp: ['Typescript', 'React'],
+    },
   Aspirations: ['Software Architecture', 'Data Science',  'MachineLearning']
 }
 ```
