@@ -13,3 +13,13 @@ const Lucas = {
   Aspirations: ['Software Architecture', 'Data Science',  'MachineLearning']
 }
 ```
+<div>
+  <p>
+    🧑🏻‍💻🎶
+     I'm a artistic and dedicated Full-Stack Developer.
+    Before programming, I went through a music career, which enabled me to explore and enrich my artistic and teaching skills.
+    I've always felt driven by the need to create things. By learning to program I've been able to develop and empower that creative side of mine in a technological  environment. Creativity is now a must when it comes to solving a problem.
+    Programming has also made me get back in touch with some "old" passions: English and logic. On the one hand, I took English classes since I was six, on the other hand, when I was in high school I participated in mathematical olympiads on several occasions.
+    A perfect job would be one where I could draw upon my creative side in order to make great software.
+  </p>
+</div>
