@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Lucas 👋 :computer: </h1>
+<h1 align="center"> Hey there, I'm Lucas 👋:computer: </h1>
 
 ```js
 const Lucas = {
