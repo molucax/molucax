@@ -7,10 +7,11 @@ const Lucas = {
       FrontEnd: ['Javascript', 'Typescript', 'React', 'React-Native', 'Redux', 'HTML', 'CSS']
     },
   Proyects: {
+      TurnOn: ['React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL', 'SCRUM'],
       DogsApp: ['React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL'],
       QuizApp: ['Typescript', 'React'],
     },
-  Aspirations: ['Software Architecture', 'Data Science',  'MachineLearning']
+  Aspirations: ['Software Architecture', 'Data Science']
 }
 ```
 <div>
