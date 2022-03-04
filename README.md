@@ -19,7 +19,7 @@ const Lucas = {
      🧑🏻‍💻🎶
      I'm a artistic and dedicated Full-Stack Developer.
      </p>
-    <p>Before programming, I went through a music career, which enabled me to explore and enrich my artistic and teaching skills.</p>
+    <p>Before programming I was attending a music degree career, which enabled me to explore and enrich my artistic and teaching skills.</p>
     <p>I've always felt driven by the need to create things. By learning to program I've been able to develop and empower that creative side of mine in a technological  environment. Creativity is now a must when it comes to solving a problem.</p>
     <p>A perfect job would be one where I could draw upon my creative side in order to make great software.</p>
 </div>
