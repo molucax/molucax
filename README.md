@@ -10,7 +10,7 @@ const Lucas = {
       TurnOn: ['JavaScript', 'React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL', 'SCRUM'],
       DogsApp: ['JavaScript', 'React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL'],
       Fibonatri: ['TypeScript', 'React', 'Styled Components],
-      QuizApp: ['TypeScript', 'React', 'Styled Components'],
+      QuizApp: ['TypeScript', 'React', 'Styled Components],
       TeslaClone: ['JavaScript', 'React', 'Styled Components']
     },
   Aspirations: ['Software Architecture', 'Data Science']
