@@ -3,6 +3,8 @@
   <h1>Projects</h1>
     <div>
       <h2>Fibonatri</h2>
-      <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/fibonatriON2.png" alt="on2" width="auto" />
+      <h4>A front-end application that exhibits how two different versions of a recursive fibonacci function behave. The purpose of this app is to allow us to graphically understand what happens inside each variant and why the second version’s performance is more efficient than the first one’s.</h4>
+      <h4>The first variant has a quadratic time complexity: O(2^n)</h4>
+      <h4>The second one has a linear time complexity: O(n)</h4>
     </div>
 </div>
