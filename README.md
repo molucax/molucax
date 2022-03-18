@@ -1,5 +1,6 @@
 <h1 align="center"> Hey there, I'm Lucas 👨🏻‍💻 </h1>
-<img src="https://imgur.com/TzjzChU" alt="header" />
+<img align="center" src="https://imgur.com/TzjzChU" alt="header" width="auto"/>
+
 ```js
 const Lucas = {
   Technologies: {
