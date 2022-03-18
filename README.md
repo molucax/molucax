@@ -1,4 +1,3 @@
-<h1 align="center"> Hey there, I'm Lucas 👨🏻‍💻 </h1>
 <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/gitHeader.png" alt="header" width="auto"/>
 
 ```js
