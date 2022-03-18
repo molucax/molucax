@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/gitHeader.jpg" alt="header" width="auto"/>
+<img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/headergit.png" alt="header" width="auto"/>
 
 ```js
 const Lucas = {
