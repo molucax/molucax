@@ -17,6 +17,8 @@
       <p>Code: https://github.com/molucax/dogs-react-node</p>
       <h4>My first full-stack app. It’s a SPA where you can see a list of existing dog breeds, search by name, filter by temperament, and sort alphabetically and by weight.</h4>
       <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/dogs2.png" alt="header" width="auto" />
+     <h4>If you want to know more about a dog you can click on the card and it'll show you more info:</h4>
+     <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/dogs1.png" alt="header" width="auto" />
    </div>
   <div>
       <h2>TurnOn</h2>
