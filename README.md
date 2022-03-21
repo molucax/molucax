@@ -11,4 +11,11 @@
       <h4>The second one has a linear time complexity: O(n)</h4>
       <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/fibonatriON.png" alt="header" width="auto" />
     </div>
+  <div>
+      <h2>Dogs</h2>
+      <p>App: https://https://dogs-react-node.vercel.app</p>
+      <p>Code: https://github.com/molucax/dogs-react-node</p>
+      <h4>My first full-stack app. It’s a SPA where you can see a list of existing dog breeds, search by name, filter by temperament, and sort alphabetically and by weight.</h4>
+      <img align="center" src="https://raw.githubusercontent.com/molucax/molucax/master/dogs2.png" alt="header" width="auto" />
+    </div>
 </div>
